@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "Zenith",
+    "name": "Zenith",
+    "description": "Minecraft 1.12.2 utility mod for anarchy servers",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      "Katatje"
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
